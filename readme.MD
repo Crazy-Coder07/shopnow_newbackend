@@ -1,7 +1,7 @@
 **SHOPNOW==> This is the MERN stack Project
 
-# Deployed Link 
-https://aditya-ranjan.cyclic.app/
+# Deployed backend Link 
+https://shopnow-newbackend.onrender.com
 
 # Locally Run Backend
 npm start
